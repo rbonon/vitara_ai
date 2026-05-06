@@ -1,0 +1,5 @@
+The Camel Trophy Yellow paint code LRC 361 (also known as "Sandglow") is identified in Land Rover Classic documentation with a Hex code of #d4b97d and RGB values of (212, 185, 125). 
+
+This specific shade is listed in the official LRC 361 color chart as Light stone.  However, general color databases often define "Camel Yellow" with different values, such as Hex #E1C36A and RGB (225, 195, 106). 
+
+The following table contrasts the specific Land Rover LRC 361 code with the general "Camel Yellow" definition found in web resources:
